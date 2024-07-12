@@ -9,15 +9,15 @@ const Contact = () => {
         <div className='dis'>
       <div className='center'>
       <FaPhone className='whatsapp'/>
-      <h3>+91 9701349209</h3>
+      <h3>+91 6281355358</h3>
       </div>
       <div className='center'>
       <FaSquareWhatsapp className='whatsapp'/>
-      <h3>+91 9701349209</h3>
+      <h3>+91 6281355358</h3>
       </div>
       <div className='center'>
       <FaLinkedin className='whatsapp'/>
-      <h3>Bathala Gangadhar</h3>
+      <h3>Dudekula Dileep kumar</h3>
       </div>
       </div>
     </div>

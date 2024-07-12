@@ -13,14 +13,14 @@ const Edu = () => {
         </div>
         <div>
         <div className='dis'>
-            <div><h4>Sri Shirdi Sai Jr college Rajampet</h4></div>
+            <div><h4>Narayana jr college Kurnool</h4></div>
             <div className='display'><h4>2019-21</h4></div>
         </div>
         <li>MPC</li>
         </div>
         <div>
         <div className='dis'>
-            <div><h4>Raju High School Mannur Rajampet</h4></div>
+            <div><h4>Sri Gururaju EM school nandhyal</h4></div>
             <div className='display'><h4>2018-19</h4></div>
         </div>
         <li>SSC</li>
